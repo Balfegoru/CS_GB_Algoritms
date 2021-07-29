@@ -1,0 +1,7 @@
+C:\Users\Georgy\source\repos\AlgoritmsGB2\Algoritm1_1\bin\Debug\Algoritm1_1.exe.config
+C:\Users\Georgy\source\repos\AlgoritmsGB2\Algoritm1_1\bin\Debug\Algoritm1_1.exe
+C:\Users\Georgy\source\repos\AlgoritmsGB2\Algoritm1_1\bin\Debug\Algoritm1_1.pdb
+C:\Users\Georgy\source\repos\AlgoritmsGB2\Algoritm1_1\obj\Debug\Algoritm1_1.csproj.AssemblyReference.cache
+C:\Users\Georgy\source\repos\AlgoritmsGB2\Algoritm1_1\obj\Debug\Algoritm1_1.csproj.CoreCompileInputs.cache
+C:\Users\Georgy\source\repos\AlgoritmsGB2\Algoritm1_1\obj\Debug\Algoritm1_1.exe
+C:\Users\Georgy\source\repos\AlgoritmsGB2\Algoritm1_1\obj\Debug\Algoritm1_1.pdb

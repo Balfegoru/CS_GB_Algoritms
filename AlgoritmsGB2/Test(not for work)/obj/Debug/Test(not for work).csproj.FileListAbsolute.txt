@@ -1,0 +1,7 @@
+C:\Users\Georgy\source\repos\AlgoritmsGB2\Test(not for work)\bin\Debug\Test(not for work).exe.config
+C:\Users\Georgy\source\repos\AlgoritmsGB2\Test(not for work)\bin\Debug\Test(not for work).exe
+C:\Users\Georgy\source\repos\AlgoritmsGB2\Test(not for work)\bin\Debug\Test(not for work).pdb
+C:\Users\Georgy\source\repos\AlgoritmsGB2\Test(not for work)\obj\Debug\Test(not for work).csproj.AssemblyReference.cache
+C:\Users\Georgy\source\repos\AlgoritmsGB2\Test(not for work)\obj\Debug\Test(not for work).csproj.CoreCompileInputs.cache
+C:\Users\Georgy\source\repos\AlgoritmsGB2\Test(not for work)\obj\Debug\Test(not for work).exe
+C:\Users\Georgy\source\repos\AlgoritmsGB2\Test(not for work)\obj\Debug\Test(not for work).pdb
