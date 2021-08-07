@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritm3_1", "Algoritm3_1\Algoritm3_1.csproj", "{029AEC1A-0612-4595-B996-EC93BD588300}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029AEC1A-0612-4595-B996-EC93BD588300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029AEC1A-0612-4595-B996-EC93BD588300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029AEC1A-0612-4595-B996-EC93BD588300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029AEC1A-0612-4595-B996-EC93BD588300}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7941C51-D3B6-4B20-A3FB-6D0A84F58E27}
+	EndGlobalSection
+EndGlobal
